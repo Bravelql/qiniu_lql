@@ -7,8 +7,8 @@ import com.qiniu.util.Auth;
  */
 public class QiniuConfig {
     //设置好账号的ACCESS_KEY和SECRET_KEY
-    private static String ACCESS_KEY_ceshi = "p-1liZqOtroJtCfVqpfgEeLvcp_XRQJi4YyredZz";
-    private static String SECRET_KEY_ceshi = "4aTkvE4hwFqMt1psyL9iReJcRuA58imrBTcVECck";
+    private static String ACCESS_KEY_ceshi = "ACCESS_KEY";
+    private static String SECRET_KEY_ceshi = "SECRET_KEY";
 
     public static final String bucket_product = "product";
     public static final String Domain_product = "product.qiniu.doctornong.com";
